@@ -22,6 +22,9 @@ public class MyBinaryTreeTest {
         myBinaryTree.add(67);
 
         myBinaryTree.print(myBinaryTree.root);
+        myBinaryTree.searchNode(63);
 
     }
 }
+
+
